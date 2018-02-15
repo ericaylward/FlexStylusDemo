@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<circle style="fill:#646464;" cx="250" cy="250" r="224"/>
+<path style="fill:#8986BB;" d="M91.2,91.2C50.5,131.8,25.4,188,25.4,250s25.1,118.2,65.8,158.8L250,250L91.2,91.2z"/>
+<path style="fill:#C294A9;" d="M250,25.4c-62,0-118.2,25.1-158.8,65.8L250,250L409.5,91.8C368.8,50.8,312.4,25.4,250,25.4z"/>
+<path style="fill:#F4C29C;" d="M409.5,91.8L250,250l158.8,158.8c40.6-40.6,65.8-96.8,65.8-158.8C474.6,188.3,449.7,132.4,409.5,91.8
+	z"/>
+<path style="fill:#A1CCBD;" d="M250,250L91.2,408.8c40.6,40.6,96.8,65.8,158.8,65.8s118.2-25.1,158.8-65.8L250,250z"/>
+<g>
+	<circle style="fill:none;stroke:#FFFFFF;stroke-width:5;stroke-miterlimit:10;" cx="250" cy="250" r="51"/>
+	<circle style="fill:none;stroke:#FFFFFF;stroke-width:5;stroke-miterlimit:10;" cx="250" cy="250" r="101"/>
+	<circle style="fill:none;stroke:#FFFFFF;stroke-width:5;stroke-miterlimit:10;" cx="250" cy="250" r="164.6"/>
+	<circle style="fill:none;stroke:#FFFFFF;stroke-width:5;stroke-miterlimit:10;" cx="250" cy="250" r="51"/>
+	<path style="fill:#D396BF;" d="M250,250V25.4c-62,0-118.2,25.1-158.8,65.8L250,250z"/>
+	<path style="fill:#AD007B;" d="M250,250V85.4c-45.5,0-86.6,18.4-116.4,48.2L250,250z"/>
+	<circle style="fill:#8D0068;" cx="250" cy="250" r="101"/>
+	<path style="fill:#88CBD1;" d="M91.2,408.8c40.6,40.6,96.8,65.8,158.8,65.8V250L91.2,408.8z"/>
+	<path style="fill:#0198A5;" d="M133.6,366.4c29.8,29.8,71,48.2,116.4,48.2V250L133.6,366.4z"/>
+	<path style="fill:#007F88;" d="M178.6,321.4c18.3,18.3,43.5,29.6,71.4,29.6V250L178.6,321.4z"/>
+	<path style="fill:#013D47;" d="M213.9,286.1c9.2,9.2,22,14.9,36.1,14.9v-51L213.9,286.1z"/>
+	<path style="fill:#F2997A;" d="M409.5,91.8c-40.7-41-97.1-66.4-159.5-66.4V250L409.5,91.8z"/>
+	<path style="fill:#E2001B;" d="M366.9,134.1C337,104,295.7,85.4,250,85.4V250L366.9,134.1z"/>
+	<path style="fill:#8A0E12;" d="M321.7,178.9C303.4,160.5,278,149,250,149v101L321.7,178.9z"/>
+	<path style="fill:#5B0717;" d="M286.2,214.1c-9.2-9.3-22-15.1-36.2-15.1v51L286.2,214.1z"/>
+	<path style="fill:#FBCF8E;" d="M250,250h224.6c0-61.7-24.9-117.6-65.2-158.2L250,250z"/>
+	<path style="fill:#F49D01;" d="M250,250h164.6c0-45.2-18.2-86.2-47.8-115.9L250,250z"/>
+	<path style="fill:#C17401;" d="M250,250h101c0-27.7-11.2-52.9-29.3-71.1L250,250z"/>
+	<path style="fill:#5F3B07;" d="M250,250h51c0-14-5.7-26.7-14.8-35.9L250,250z"/>
+	<path style="fill:#F4EF9C;" d="M250,250l158.8,158.8c40.6-40.6,65.8-96.8,65.8-158.8H250z"/>
+	<path style="fill:#EDE100;" d="M250,250l116.4,116.4c29.8-29.8,48.2-71,48.2-116.4H250z"/>
+	<path style="fill:#C0B600;" d="M250,250l71.4,71.4c18.3-18.3,29.6-43.5,29.6-71.4H250z"/>
+	<path style="fill:#5D5A01;" d="M250,250l36.1,36.1c9.2-9.2,14.9-22,14.9-36.1H250z"/>
+	<path style="fill:#A1CC97;" d="M250,250v224.6c62,0,118.2-25.1,158.8-65.8L250,250z"/>
+	<path style="fill:#019C31;" d="M250,250v164.6c45.5,0,86.6-18.4,116.4-48.2L250,250z"/>
+	<path style="fill:#017F2B;" d="M250,250v101c27.9,0,53.1-11.3,71.4-29.6L250,250z"/>
+	<path style="fill:#094412;" d="M250,250v51c14.1,0,26.8-5.7,36.1-14.9L250,250z"/>
+	<path style="fill:#8AB6DD;" d="M25.4,250c0,62,25.1,118.2,65.8,158.8L250,250H25.4z"/>
+	<path style="fill:#0178BD;" d="M85.4,250c0,45.5,18.4,86.6,48.2,116.4L250,250H85.4z"/>
+	<path style="fill:#01639E;" d="M149,250c0,27.9,11.3,53.1,29.6,71.4L250,250H149z"/>
+	<path style="fill:#014A79;" d="M199,250c0,14.1,5.7,26.8,14.9,36.1L250,250H199z"/>
+	<path style="fill:#9486BB;" d="M91.2,91.2C50.5,131.8,25.4,188,25.4,250H250L91.2,91.2z"/>
+	<path style="fill:#2B2882;" d="M133.6,133.6c-29.8,29.8-48.2,71-48.2,116.4H250L133.6,133.6z"/>
+	<path style="fill:#21206C;" d="M178.6,178.6C160.3,196.9,149,222.1,149,250h101L178.6,178.6z"/>
+	<path style="fill:#4A0032;" d="M250,250v-51c-14.1,0-26.8,5.7-36.1,14.9L250,250z"/>
+	<path style="fill:#130336;" d="M213.9,213.9c-9.2,9.2-14.9,22-14.9,36.1h51L213.9,213.9z"/>
+	<circle cx="250" cy="250" r="16.9"/>
+</g>
+</svg>
